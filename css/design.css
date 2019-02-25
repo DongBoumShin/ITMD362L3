@@ -16,12 +16,13 @@
   }
   p
   {
-    font-family: 'Nova Flat', Helvetica, cursive;
+    font-family: 'Nova Cut', Helvetica, cursive;
     margin-top: 20px;
     margin-bottom: 20px;
   }
   input
   {
+    font-family: 'Nova Flat', Helvetica, sans-serif;
     border: 0px;
     background-color: lightgray;
     color: darkslategray;
