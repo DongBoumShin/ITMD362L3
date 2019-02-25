@@ -8,7 +8,7 @@
   h1
   {
     font-size: 1.5em;
-    /*font-family: */
+    font-family: 'Cinzel Decorative', Helvetica, sans-serif;
     margin: auto;
     width: 100%;
     margin-bottom: 15px;
@@ -38,6 +38,7 @@
   }
   #submit
   {
+    font-family: 'UnifrakturMaguntia', Arial, monospace;
     color: black;
   }
 }
