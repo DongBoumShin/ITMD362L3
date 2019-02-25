@@ -1,4 +1,40 @@
 @media only screen and (max-width: 440px)
 {
-  
+  body
+  {
+    background-color: #141d26;
+    color: snow;
+  }
+  h1
+  {
+    font-size: 1.5em;
+    /*font-family: */
+    margin: auto;
+    width: 100%;
+    margin-bottom: 15px;
+    text-align: center;
+  }
+  p
+  {
+    margin-top: 20px;
+    margin-bottom: 20px;
+  }
+  input
+  {
+    border: 0px;
+    background-color: lightgray;
+    color: darkslategray;
+    width: 100%;
+  }
+  label
+  {
+    margin-top: 5px;
+    margin-bottom: 5px;
+    font-size: 0.8em;
+    width: 100%;
+  }
+  #submit
+  {
+    color: black;
+  }
 }
