@@ -8,7 +8,7 @@
   h1
   {
     font-size: 1.5em;
-    font-family: 'Cinzel Decorative', Helvetica, sans-serif;
+    font-family: 'Cinzel Decorative', 'Helvetica', sans-serif;
     margin: auto;
     width: 100%;
     margin-bottom: 15px;
@@ -16,13 +16,13 @@
   }
   p
   {
-    font-family: 'Nova Cut', Helvetica, cursive;
+    font-family: 'Nova Cut', 'Helvetica', cursive;
     margin-top: 20px;
     margin-bottom: 20px;
   }
   input
   {
-    font-family: 'Nova Flat', Helvetica, sans-serif;
+    font-family: 'Nova Flat', 'Helvetica', sans-serif;
     border: 0px;
     background-color: lightgray;
     color: darkslategray;
@@ -38,7 +38,7 @@
   }
   #submit
   {
-    font-family: 'UnifrakturMaguntia', Arial, cursive;
+    font-family: 'UnifrakturMaguntia', 'Arial', cursive;
     color: black;
   }
 }
